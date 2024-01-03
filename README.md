@@ -1,6 +1,9 @@
 # app
 
 A new Flutter project.
+- users can chat with each other.
+- used Firebase,firebaseStore, Auth
+  
 
 ## Getting Started
 
